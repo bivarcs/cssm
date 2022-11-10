@@ -1,0 +1,21 @@
+{
+  "entryPoints": [
+    "src/js/CSSM/class.ts"
+  ],
+  "navigationLinks": {
+    "Github": "https://github.com/bivarcs/cssm",
+    "Demo": "https://bivarcs.github.io/cssm/demo/"
+  },
+  "sidebarLinks": {
+    "Github": "https://github.com/bivarcs/cssm",
+    "Demo": "https://bivarcs.github.io/cssm/demo/"
+  },
+  "sourceLinkTemplate": "https://github.com/bivarcs/cssm/blob/main/{path}#L{line}",
+  "out": "./docs/docs",
+  "visibilityFilters": {
+    "protected": true,
+    "private": true,
+    "inherited": true,
+    "external": true,
+  }
+}
