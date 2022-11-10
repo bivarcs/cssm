@@ -1,0 +1,23 @@
+.button-group {
+  display: flex;
+  column-gap: 8px;
+}
+
+.button {
+  display: block;
+  height: 40px;
+  line-height: 40px;
+  border-radius: 6px;
+  background-color: #1d4ed8;
+  color: #fff;
+  padding-left: 16px;
+  padding-right: 16px;
+  width: fit-content;
+  min-width: 80px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.button:hover {
+  background-color: #2563eb;
+}
